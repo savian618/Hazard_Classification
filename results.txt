@@ -1,0 +1,642 @@
+The insurance company is missing
+Cluster 0:
+Number of documents: 832
+Top 10 words: grade, exterior, foundation, room, none, of, wall, wood, basement, quality
+Confidence score: 0.1927326217431603
+Cluster 1:
+Number of documents: 4981
+Top 10 words: policy, the, of, and, to, your, coverage, insurance, premium, in
+Confidence score: 0.236913791360846
+Cluster 2:
+Number of documents: 2909
+Top 10 words: the, of, insurance, or, policy, and, acord, evidence, coverage, to
+Confidence score: 0.041034514942238975
+------------------------------------------
+ The insurance company is american strategic insurance
+Cluster 0:
+Number of documents: 45
+Top 10 words: included, the, of, policy, hurricane, to, insurance, and, building, you
+Confidence score: 0.1788347482866317
+Cluster 1:
+Number of documents: 131
+Top 10 words: asi, of, ho, policy, the, premium, and, coverage, is, other
+Confidence score: 0.3310595415943596
+Cluster 2:
+Number of documents: 31
+Top 10 words: the, acord, policy, insurance, coverage, of, evidence, lennar, license, and
+Confidence score: 0.3138680019133999
+------------------------------------------
+ The insurance company is progressive corporation
+Cluster 0:
+Number of documents: 43
+Top 10 words: of, policy, asi, the, tx, and, ca, is, coverage, premium
+Confidence score: 0.2099604776244981
+Cluster 1:
+Number of documents: 7
+Top 10 words: de, tx, para, of, texas, asi, the, insurance, informacion, puede
+Confidence score: 0.2099604776244981
+Cluster 2:
+Number of documents: 38
+Top 10 words: asi, of, ho, policy, the, premium, coverage, fl, ga, and
+Confidence score: 0.2953120801992979
+------------------------------------------
+ The insurance company is allstate
+Cluster 0:
+Number of documents: 81
+Top 10 words: foundation, of, basement, walls, exterior, floor, feet, roof, materials, area
+Confidence score: 0.6223153587393869
+Cluster 1:
+Number of documents: 370
+Top 10 words: the, of, insurance, policy, to, and, evidence, mortgagee, property, in
+Confidence score: 0.6223153587393869
+Cluster 2:
+Number of documents: 191
+Top 10 words: your, you, the, policy, of, and, to, coverage, or, on
+Confidence score: 0.33694611064567925
+------------------------------------------
+ The insurance company is farmers insurance group
+Cluster 0:
+Number of documents: 17
+Top 10 words: of, policy, the, premium, and, to, or, your, number, is
+Confidence score: 0.5941414013987671
+Cluster 1:
+Number of documents: 20
+Top 10 words: your, the, to, coverage, of, policy, farmers, and, or, you
+Confidence score: 0.5941414013987671
+Cluster 2:
+Number of documents: 27
+Top 10 words: the, of, or, to, and, your, in, policy, insurance, for
+Confidence score: 0.5883534552965622
+------------------------------------------
+ The insurance company is geico
+Cluster 0:
+Number of documents: 35
+Top 10 words: exterior, floor, foundation, systems, basement, walls, feet, grade, wood, framing
+Confidence score: 0.24368585291713873
+Cluster 1:
+Number of documents: 96
+Top 10 words: the, of, policy, payment, insurance, hh, amount, evidence, and, upon
+Confidence score: 0.24368585291713873
+Cluster 2:
+Number of documents: 297
+Top 10 words: of, the, policy, and, coverage, or, to, insurance, your, acord
+Confidence score: 0.04816387412069634
+------------------------------------------
+ The insurance company is usaa
+Cluster 0:
+Number of documents: 144
+Top 10 words: paid, customer, to, make, changes, be, access, business, and, usaa
+Confidence score: 0.27445048845525555
+Cluster 1:
+Number of documents: 406
+Top 10 words: the, usaa, to, policy, of, you, and, your, coverage, insurance
+Confidence score: 0.27445048845525555
+Cluster 2:
+Number of documents: 495
+Top 10 words: of, certificate, or, the, coverage, insurance, policy, information, policies, and
+Confidence score: 0.2849517597330914
+------------------------------------------
+ The insurance company is liberty mutual
+Cluster 0:
+Number of documents: 233
+Top 10 words: of, the, and, to, your, or, coverage, insurance, policy, for
+Confidence score: 0.23753522548394324
+Cluster 1:
+Number of documents: 198
+Top 10 words: insurance, included, policy, safeco, coverage, coverages, agent, dwelling, payment, the
+Confidence score: 0.12131253376625895
+Cluster 2:
+Number of documents: 90
+Top 10 words: percent, none, exterior, of, features, dwelling, finishes, air, estimate, custom
+Confidence score: 0.1785402296438382
+------------------------------------------
+ The insurance company is safeco
+Cluster 0:
+Number of documents: 41
+Top 10 words: the, of, insurance, evidence, policies, acord, or, and, additional, interest
+Confidence score: 0.20130267331461038
+Cluster 1:
+Number of documents: 34
+Top 10 words: policy, the, of, installment, insurance, for, coverage, coverages, fee, included
+Confidence score: 0.803221075299999
+Cluster 2:
+Number of documents: 14
+Top 10 words: the, binder, of, in, applicable, days, to, insurance, policy, for
+Confidence score: 0.3345208993021189
+------------------------------------------
+ The insurance company is hanover insurance
+Cluster 0:
+Number of documents: 9
+Top 10 words: the, of, insurance, to, policy, acord, and, certificate, policies, or
+Confidence score: 0.23323515269017836
+Cluster 1:
+Number of documents: 4
+Top 10 words: coverage, policy, of, the, unit, liability, pointe, premium, section, total
+Confidence score: 0.2542096248942728
+Cluster 2:
+Number of documents: 1
+Top 10 words: basement, foundation, feet, exterior, walls, wood, materials, roof, area, square
+Confidence score: 0.1385516210611215
+------------------------------------------
+ The insurance company is citizens property insurance corporation
+Cluster 0:
+Number of documents: 18
+Top 10 words: the, of, acord, policies, evidence, insurance, property, or, to, below
+Confidence score: 0.43834926237832905
+Cluster 1:
+Number of documents: 36
+Top 10 words: of, the, policy, and, insurance, is, premium, property, fl, to
+Confidence score: 0.43834926237832905
+Cluster 2:
+Number of documents: 66
+Top 10 words: of, policy, the, to, your, coverage, insurance, and, or, for
+Confidence score: 0.09208090032294336
+------------------------------------------
+ The insurance company is nationwide mutual insurance company
+Cluster 0:
+Number of documents: 6
+Top 10 words: policy, foundation, of, basement, exterior, floor, your, feet, wood, walls
+Confidence score: 0.28936626980484537
+Cluster 1:
+Number of documents: 43
+Top 10 words: policy, of, your, to, premium, for, coverage, and, nationwide, the
+Confidence score: 0.3501267593232804
+Cluster 2:
+Number of documents: 39
+Top 10 words: policy, of, the, and, coverage, for, your, ca, premium, to
+Confidence score: 0.3876088321545994
+------------------------------------------
+ The insurance company is qbe insurance
+Cluster 0:
+Number of documents: 5
+Top 10 words: the, of, debris, removal, to, report, or, basement, cost, reconstruction
+Confidence score: 0.29277748586590924
+Cluster 1:
+Number of documents: 13
+Top 10 words: of, policy, the, and, for, to, premium, coverage, your, section
+Confidence score: 0.33038230764845755
+Cluster 2:
+Number of documents: 8
+Top 10 words: the, of, evidence, insurance, acord, policies, or, to, and, contract
+Confidence score: 0.5447091781078344
+------------------------------------------
+ The insurance company is penn national insurance
+Cluster 0:
+Number of documents: 3
+Top 10 words: the, of, insurance, property, evidence, or, information, acord, policies, and
+Confidence score: 1.0
+Cluster 1:
+Number of documents: 2
+Top 10 words: insurance, of, the, payment, cov, tn, for, and, policy, payments
+Confidence score: 1.0
+Cluster 2:
+Number of documents: 1
+Top 10 words: the, of, and, insurance, to, nc, policy, parker, account, services
+Confidence score: 1.0
+------------------------------------------
+ The insurance company is pemco
+Cluster 0:
+Number of documents: 5
+Top 10 words: coverage, included, and, liability, policy, of, declarations, pemco, personal, endorsement
+Confidence score: 0.15109622170095305
+Cluster 1:
+Number of documents: 10
+Top 10 words: the, of, to, or, in, and, this, by, policy, insurance
+Confidence score: 0.15109622170095305
+Cluster 2:
+Number of documents: 12
+Top 10 words: the, of, policy, pemco, and, coverage, insurance, prospective, this, to
+Confidence score: 0.5758097339483625
+------------------------------------------
+ The insurance company is new jersey manufacturers insurance company
+Cluster 0:
+Number of documents: 21
+Top 10 words: policy, the, coverage, liability, insurance, nj, premium, of, for, mortgagee
+Confidence score: 0.06636676322275503
+Cluster 1:
+Number of documents: 2
+Top 10 words: the, labor, insurable, and, cost, as, to, value, be, of
+Confidence score: 0.06636676322275503
+Cluster 2:
+Number of documents: 4
+Top 10 words: the, information, insurance, of, or, to, score, and, your, you
+Confidence score: 0.0
+------------------------------------------
+ The insurance company is encompass insurance company
+Cluster 0:
+Number of documents: 2
+Top 10 words: the, of, insurance, evidence, policies, acord, and, or, coverage, insured
+Confidence score: 1.1102230246251565e-15
+Cluster 1:
+Number of documents: 1
+Top 10 words: your, policy, the, for, and, of, encompass, you, installment, home
+Confidence score: 1.0
+Cluster 2:
+Number of documents: 1
+Top 10 words: the, binder, of, in, days, insurance, to, and, applicable, is
+Confidence score: 0.0
+------------------------------------------
+ The insurance company is tiaa
+Cluster 0:
+Number of documents: 2
+Top 10 words: policy, the, of, and, period, in, this, will, compliance, mortgagee
+Confidence score: 0.6645359581230625
+Cluster 1:
+Number of documents: 4
+Top 10 words: your, the, coverage, of, policy, to, or, and, for, you
+Confidence score: 0.6645359581230625
+Cluster 2:
+Number of documents: 1
+Top 10 words: incl, policy, description, of, financial, country, lctn, annual, mutual, to
+Confidence score: 0.5677267461302866
+------------------------------------------
+ The insurance company is state farm insurance
+Cluster 0:
+Number of documents: 4
+Top 10 words: room, size, grade, quality, none, adjustment, medium, estimate, above, the
+Confidence score: 0.30275472408045345
+Cluster 1:
+Number of documents: 25
+Top 10 words: the, or, of, policy, to, and, any, your, this, information
+Confidence score: 0.5846131335749147
+Cluster 2:
+Number of documents: 69
+Top 10 words: policy, the, and, of, period, in, this, agent, will, mortgagee
+Confidence score: 0.384706967938222
+------------------------------------------
+ The insurance company is american family insurance
+Cluster 0:
+Number of documents: 7
+Top 10 words: exterior, foundation, debris, removal, systems, floor, wood, feet, cost, basement
+Confidence score: 0.28576742893791274
+Cluster 1:
+Number of documents: 38
+Top 10 words: the, of, policy, insurance, property, date, fr, sec, and, cov
+Confidence score: 0.28576742893791274
+Cluster 2:
+Number of documents: 38
+Top 10 words: policy, your, of, coverage, and, the, to, declarations, been, discount
+Confidence score: 0.4649051635606769
+------------------------------------------
+ The insurance company is mutual of omaha
+Cluster 0:
+Number of documents: 8
+Top 10 words: of, the, your, policy, to, for, or, coverage, and, insurance
+Confidence score: 0.31011673008498786
+Cluster 1:
+Number of documents: 3
+Top 10 words: policy, the, will, and, of, in, period, compliance, this, end
+Confidence score: 0.20907977270121192
+Cluster 2:
+Number of documents: 4
+Top 10 words: of, the, policies, evidence, insurance, or, acord, property, policy, usaa
+Confidence score: 0.3068279515990915
+------------------------------------------
+ The insurance company is mercury insurance group
+Cluster 0:
+Number of documents: 7
+Top 10 words: foundation, exterior, roof, cost, floor, grade, heating, materials, feet, area
+Confidence score: 0.33118145147850697
+Cluster 1:
+Number of documents: 26
+Top 10 words: the, of, coverage, policy, insurance, and, property, this, evidence, to
+Confidence score: 0.33118145147850697
+Cluster 2:
+Number of documents: 11
+Top 10 words: cnt, exterior, roof, heating, floor, cost, wood, and, reconstruction, air
+Confidence score: 0.4000604303111156
+------------------------------------------
+ The insurance company is the hartford
+Cluster 0:
+Number of documents: 5
+Top 10 words: of, your, the, liability, policy, and, coverage, coverages, hw, limit
+Confidence score: 0.6155281273635578
+Cluster 1:
+Number of documents: 5
+Top 10 words: the, of, or, to, and, by, in, this, any, not
+Confidence score: 0.6155281273635578
+Cluster 2:
+Number of documents: 1
+Top 10 words: the, of, acord, evidence, soderberg, insurance, ma, st, antonio, san
+Confidence score: 1.0
+------------------------------------------
+ The insurance company is amica mutual insurance
+Cluster 0:
+Number of documents: 12
+Top 10 words: amica, policy, insurance, company, the, of, and, general, life, llc
+Confidence score: 0.6241333548209804
+Cluster 1:
+Number of documents: 12
+Top 10 words: of, ho, liability, limit, or, and, policy, coverage, for, the
+Confidence score: 0.6241333548209804
+Cluster 2:
+Number of documents: 3
+Top 10 words: of, fenwick, policy, is, premises, no, to, premium, hillsborough, susan
+Confidence score: 0.17343138751342868
+------------------------------------------
+ The insurance company is pure insurance
+Cluster 0:
+Number of documents: 2
+Top 10 words: the, of, binder, insurance, in, to, and, policy, is, coverage
+Confidence score: nan
+Cluster 1:
+Number of documents: 0
+Top 10 words: the, of, binder, insurance, in, to, and, policy, is, coverage
+Confidence score: nan
+------------------------------------------
+ The insurance company is national flood insurance program
+Cluster 0:
+Number of documents: 15
+Top 10 words: and, coverage, american, of, binder, policy, to, date, this, national
+Confidence score: 0.3891615174296451
+Cluster 1:
+Number of documents: 46
+Top 10 words: the, of, or, to, and, your, you, for, in, policy
+Confidence score: 0.3891615174296451
+Cluster 2:
+Number of documents: 44
+Top 10 words: the, policy, of, to, coverage, and, your, insurance, for, upc
+Confidence score: 0.5178051285710892
+------------------------------------------
+ The insurance company is shelter insurance
+Cluster 0:
+Number of documents: 3
+Top 10 words: policy, of, the, mo, and, insurance, for, summit, lees, to
+Confidence score: 0.27174496816110105
+Cluster 1:
+Number of documents: 1
+Top 10 words: columbus, richardson, ms, rd, the, of, lee, jr, young, robert
+Confidence score: 0.39171309463126314
+Cluster 2:
+Number of documents: 8
+Top 10 words: of, the, and, policy, premium, date, agent, section, to, as
+Confidence score: 0.20583939488265657
+------------------------------------------
+ The insurance company is metlife
+Cluster 0:
+Number of documents: 12
+Top 10 words: of, main, the, policy, property, home, insurance, walls, and, exterior
+Confidence score: 0.4043244446557418
+Cluster 1:
+Number of documents: 19
+Top 10 words: the, of, or, for, to, is, and, loss, coverage, property
+Confidence score: 0.4043244446557418
+Cluster 2:
+Number of documents: 33
+Top 10 words: of, the, to, policy, and, property, insurance, home, is, personal
+Confidence score: 0.08406718973575211
+------------------------------------------
+ The insurance company is assurant
+Cluster 0:
+Number of documents: 1
+Top 10 words: of, tx, roof, the, clause, hochheim, to, oak, burnt, coverage
+Confidence score: 0.39697731084447274
+Cluster 1:
+Number of documents: 1
+Top 10 words: the, and, of, to, or, wood, inspection, for, in, be
+Confidence score: 0.0
+------------------------------------------
+ The insurance company is american automobile association
+Cluster 0:
+Number of documents: 1
+Top 10 words: information, to, and, we, you, your, personal, insurance, the, share
+Confidence score: 0.0
+Cluster 1:
+Number of documents: 6
+Top 10 words: the, and, of, to, insurance, policy, is, for, or, your
+Confidence score: 0.33649344148756455
+Cluster 2:
+Number of documents: 1
+Top 10 words: escrow, the, holder, of, or, to, and, instructions, any, in
+Confidence score: 0.41404837523474747
+re: 0.33194525866883506
+Cluster 1:
+Number of documents: 4
+Top 10 words: of, policy, to, the, and, grange, is, payment, your, due
+Confidence score: 0.34972750233606653
+Cluster 2:
+Number of documents: 12
+Top 10 words: the, of, or, to, and, we, in, information, insurance, policy
+Confidence score: 0.41186166039319283
+------------------------------------------
+ The insurance company is auto-owners insurance
+Cluster 0:
+Number of documents: 13
+Top 10 words: the, of, to, insurance, or, your, policy, and, agency, nc
+Confidence score: 0.3628439082118772
+Cluster 1:
+Number of documents: 24
+Top 10 words: of, insurance, policy, to, the, premium, evidence, agency, in, and
+Confidence score: 0.3628439082118772
+Cluster 2:
+Number of documents: 4
+Top 10 words: basement, foundation, wood, exterior, standard, roof, feet, floor, framing, wall
+Confidence score: 0.1536627746464262
+------------------------------------------
+ The insurance company is berkshire hathaway
+Cluster 0:
+Number of documents: 8
+Top 10 words: of, the, to, policy, and, your, coverage, or, you, premium
+Confidence score: 0.2165924614289947
+Cluster 1:
+Number of documents: 6
+Top 10 words: the, of, evidence, acord, mi, policies, insurance, and, or, coverage
+Confidence score: 0.42904682876204303
+Cluster 2:
+Number of documents: 2
+Top 10 words: policy, of, tx, goosehead, agent, email, binder, insurance, dwelling, to
+Confidence score: 0.42890096185319304
+------------------------------------------
+ The insurance company is philadelphia contributionship
+Cluster 0:
+Number of documents: 1
+Top 10 words: of, incl, the, or, and, evidence, insurance, to, replacement, acord
+Confidence score: 0.4000238571571545
+Cluster 1:
+Number of documents: 5
+Top 10 words: policy, of, the, coverage, to, insurance, and, for, your, or
+Confidence score: 0.4000238571571545
+Cluster 2:
+Number of documents: 2
+Top 10 words: basement, exterior, walls, roof, area, feet, wood, floor, square, grade
+Confidence score: 0.2064595414895194
+------------------------------------------
+ The insurance company is westfield insurance
+Cluster 0:
+Number of documents: 2
+Top 10 words: the, of, insurance, or, evidence, acord, and, policies, ky, this
+Confidence score: 1.0
+Cluster 1:
+Number of documents: 2
+Top 10 words: the, or, of, to, in, and, we, for, is, any
+Confidence score: 1.0
+Cluster 2:
+Number of documents: 1
+Top 10 words: the, binder, of, in, applicable, to, insurance, days, is, and
+Confidence score: 1.0
+------------------------------------------
+ The insurance company is western mutual insurance group
+Cluster 0:
+Number of documents: 1
+Top 10 words: the, policy, to, and, your, in, you, of, insurance, coverage
+Confidence score: 0.0
+Cluster 1:
+Number of documents: 1
+Top 10 words: the, policy, and, insurance, of, ca, date, loan, additional, is
+Confidence score: 1.0
+------------------------------------------
+ The insurance company is standard insurance company
+Cluster 0:
+Number of documents: 2
+Top 10 words: the, policy, of, company, insurance, to, and, or, location, stock
+Confidence score: 0.999999952851378
+Cluster 1:
+Number of documents: 1
+Top 10 words: your, farmers, to, you, claim, the, and, payment, on, of
+Confidence score: 0.0
+Cluster 2:
+Number of documents: 1
+Top 10 words: the, of, insurance, evidence, policies, acord, ga, coverage, and, or
+Confidence score: 9.658940314238862e-15
+------------------------------------------
+ The insurance company is country financial
+Cluster 0:
+Number of documents: 4
+Top 10 words: of, code, or, perils, to, insured, the, and, this, policy
+Confidence score: 0.29243163512483905
+Cluster 1:
+Number of documents: 1
+Top 10 words: or, email, fax, greenstate, ia, union, sioux, isaoa, mtg, credit
+Confidence score: 0.29651316829312446
+Cluster 2:
+Number of documents: 2
+Top 10 words: of, or, you, to, code, insurance, information, and, our, may
+Confidence score: 0.6247232635874425
+------------------------------------------
+ The insurance company is acuity insurance
+Cluster 0:
+Number of documents: 1
+Top 10 words: the, of, insurance, evidence, or, and, policies, wi, acord, additional
+Confidence score: 0.0
+------------------------------------------
+ The insurance company is upc insurance
+Cluster 0:
+Number of documents: 4
+Top 10 words: the, of, insurance, evidence, acord, to, policies, or, and, binder
+Confidence score: 0.478667991192518
+Cluster 1:
+Number of documents: 4
+Top 10 words: the, policy, of, upc, to, this, your, nj, insurance, box
+Confidence score: 0.478667991192518
+Cluster 2:
+Number of documents: 1
+Top 10 words: room, size, none, medium, quality, grade, adjustment, small, above, bath
+Confidence score: 0.3498109693317538
+------------------------------------------
+ The insurance company is esurance
+Cluster 0:
+Number of documents: 2
+Top 10 words: the, of, binder, insurance, to, coverage, and, in, or, policy
+Confidence score: nan
+Cluster 1:
+Number of documents: 0
+Top 10 words: the, of, binder, insurance, to, coverage, and, in, or, policy
+Confidence score: nan
+------------------------------------------
+ The insurance company is northwestern mutual
+Cluster 0:
+Number of documents: 1
+Top 10 words: disability, of, benefits, payment, the, to, amount, total, benefit, payable
+Confidence score: nan
+------------------------------------------
+ The insurance company is erie insurance group
+Cluster 0:
+Number of documents: 1
+Top 10 words: erie, insurance, of, to, policy, md, asset, fairway, corporation, place
+Confidence score: 5.329070518200751e-15
+Cluster 1:
+Number of documents: 2
+Top 10 words: to, of, for, the, erie, policy, insurance, or, your, call
+Confidence score: 0.9999999215829981
+Cluster 2:
+Number of documents: 1
+Top 10 words: cov, the, of, to, erie, policy, nc, topolnitski, hodges, ins
+Confidence score: 0.0
+------------------------------------------
+ The insurance company is first insurance company of hawaii
+Cluster 0:
+Number of documents: 1
+Top 10 words: of, the, coverage, policy, and, or, insurance, premium, this, to
+Confidence score: nan
+------------------------------------------
+ The insurance company is state automobile mutual insurance company
+Cluster 0:
+Number of documents: 1
+Top 10 words: the, of, coverage, ks, included, insurance, policy, or, premium, at
+Confidence score: nan
+Cluster 1:
+Number of documents: 1
+Top 10 words: the, of, coverage, insurance, or, evidence, saint, louis, policies, acord
+Confidence score: nan
+------------------------------------------
+ The insurance company is fm global
+Cluster 0:
+Number of documents: 1
+Top 10 words: the, of, and, to, your, or, percent, for, coverage, information
+Confidence score: 0.0
+------------------------------------------
+ The insurance company is allied insurance
+Cluster 0:
+Number of documents: 2
+Top 10 words: the, of, evidence, cov, or, insurance, policy, and, interest, date
+Confidence score: 2.220446049250313e-16
+Cluster 1:
+Number of documents: 1
+Top 10 words: ne, auto, autos, accident, binder, injury, other, date, each, liability
+Confidence score: 0.9999999792722786
+Cluster 2:
+Number of documents: 1
+Top 10 words: farm, loc, fpk, ca, agribusiness, nationwide, premium, your, renewal, sf
+Confidence score: 0.0
+------------------------------------------
+ The insurance company is chubb corp
+Cluster 0:
+Number of documents: 1
+Top 10 words: the, of, for, coverage, or, to, in, your, sinkhole, and
+Confidence score: 0.0
+------------------------------------------
+ The insurance company is omega
+Cluster 0:
+Number of documents: 1
+Top 10 words: coverage, incl, claims, settled, under, endorsement, this, of, deductible, applies
+Confidence score: 0.15484574527148331
+Cluster 1:
+Number of documents: 2
+Top 10 words: the, or, of, to, and, by, loss, not, in, for
+Confidence score: 0.15484574527148331
+Cluster 2:
+Number of documents: 1
+Top 10 words: the, of, insurance, to, policy, ne, lincoln, encompass, st, and
+Confidence score: 0.0
+------------------------------------------
+ The insurance company is grange mutual casualty company
+Cluster 0:
+Number of documents: 2
+Top 10 words: the, of, insurance, or, evidence, policies, and, acord, this, additional
+Confidence score: nan
+Cluster 1:
+Number of documents: 0
+Top 10 words: the, of, insurance, or, evidence, policies, and, acord, this, additional
+Confidence score: nan
+------------------------------------------
+ The insurance company is massachusetts mutual life insurance company
+Cluster 0:
+Number of documents: 2
+Top 10 words: to, the, and, rider, policy, of, massmutual, life, company, insurance
+Confidence score: nan
+Cluster 1:
+Number of documents: 0
+Top 10 words: to, the, and, rider, policy, of, massmutual, life, company, insurance
+Confidence score: nan
+------------------------------------------
+ 
